@@ -5,8 +5,10 @@
     <title>JSP - Hello World</title>
 </head>
 <body>
-<h1><%= "Hello World!" %></h1>
-<br/>
 <a href="currency-converter-jsp.jsp">currency-converter-jsp.jsp</a>
+<form action="customer" method="post">
+    <button type="submit">Bton</button>
+</form>
+<a href="caculator.jsp">caculator</a>
 </body>
 </html>
